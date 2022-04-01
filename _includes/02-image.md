@@ -1,1 +1,1 @@
-![Image of cat](https://imgur.com/a/UVltpD6)
+![Image of a cat](Yes_we_code.jpg)
